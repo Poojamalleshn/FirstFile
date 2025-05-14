@@ -1,2 +1,4 @@
 Version Control:
 Tools like Git, Bitbucket, and GitHub manage code changes and facilitate collaboration. 
+Containerization:
+Docker enables packaging and running applications in containers, promoting portability and consistency. 
