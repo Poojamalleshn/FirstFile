@@ -1,2 +1,4 @@
 Version Control:
 Tools like Git, Bitbucket, and GitHub manage code changes and facilitate collaboration. 
+nfrastructure as Code (IaC):
+Tools like Terraform and Ansible automate infrastructure provisioning and configuration, ensuring consistency and repeatability. 
