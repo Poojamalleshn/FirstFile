@@ -1,3 +1,6 @@
 git remote set-url origin https://github.com/Poojamalleshn/Project1.git
 git remote -v 
  --> this command is used to check the current repository link
+
+ git push --set-upstream origin branch1
+ 

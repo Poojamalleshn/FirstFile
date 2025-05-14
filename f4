@@ -1,4 +1,4 @@
 Version Control:
 Tools like Git, Bitbucket, and GitHub manage code changes and facilitate collaboration. 
-Containerization:
-Docker enables packaging and running applications in containers, promoting portability and consistency. 
+nfrastructure as Code (IaC):
+Tools like Terraform and Ansible automate infrastructure provisioning and configuration, ensuring consistency and repeatability. 
